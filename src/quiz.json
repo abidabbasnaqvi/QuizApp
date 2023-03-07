@@ -1,0 +1,707 @@
+[
+    {
+        "id": 1,
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "name": "Math",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "name": "Biology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "img": "https://picsum.photos/200/300",
+        "name": "Zology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The Kreb Cycles occurs in the",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Nucleus",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Rough ER",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Cystol",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "How many oxygen molecules can hemoglobin hold",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "4",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The cones see ___ while the rods see ___",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "black and white; color",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "color; black and white",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "3D objects; 2D shapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "2D shapes; 3D objects",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    
+
+
+    {
+        "id": 4,
+        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+        "name": "Chemistry",
+        "questions": [
+            {
+                "id": 1,
+                "text": "What is the composition of table salt",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "K2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "NaCl2C4H7",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "CH4",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "What is Potassium's chemical symbol",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "P",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Pt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Pts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "K",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "Which is not organinc",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "CH4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "NaCl",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "C2H6",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "C3H8",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "img": "https://picsum.photos/200/300/?blur",
+        "name": "Psychology",
+        "questions": [
+            {
+                "id": 1,
+                "text": "The word psychology comes from:",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "Latin",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "Spanish",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "Greek",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "Italian",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "Psychology is defined as the scientific study of",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "people and things",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "emotions and beliefs",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "perception and religion",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "mind and behaviour",
+                        "isCorrect": true
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "The scientific approach is more useful at answering questions about ______ than questions about ______.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "facts, values",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "ideas, emotions",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "values, facts",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "emotions, facts",
+                        "isCorrect": false
+                    }
+                ]
+            },
+			{
+                "id": 4,
+                "text": "The behaviourists rejected introspection because",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "it was too slow",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "it invaded people’s privacy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "it yielded too much data",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "it was too subjective",
+                        "isCorrect": true
+                    }
+                ]
+            },
+			{
+                "id": 5,
+                "text": "Watson and Skinner both contributed to which school of psychology?",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "functionalism",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "cognitive",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "social-cultural",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "behaviourism",
+                        "isCorrect": true
+                    }
+                ]
+            },
+			{
+                "id": 6,
+                "text": "Evolutionary psychology has its roots in",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " behaviourism",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "collectivism",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "functionalism",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "structuralism",
+                        "isCorrect": false
+                    }
+                ]
+            },
+			{
+                "id": 7,
+                "text": "Freud championed ______ psychology.",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": " psychodynamic",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "cultural",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "conscious",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "biodynamic",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "img": "https://picsum.photos/200/300/?blur",
+        "name": "Xath",
+        "questions": [
+            {
+                "id": 1,
+                "text": "8 ÷ 2(2 + 2)",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "16",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "8",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "24",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "text": "sqrt(64) * 9",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "4",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "81",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "72",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "144",
+                        "isCorrect": false
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "text": "3 + 3 x 3 ÷ 3 - 3",
+                "options": [
+                    {
+                        "id": 1,
+                        "label": "A",
+                        "text": "3",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "label": "B",
+                        "text": "1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "label": "C",
+                        "text": "9",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "label": "D",
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ]
+            }
+        ]
+    }
+]
